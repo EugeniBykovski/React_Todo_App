@@ -1,0 +1,14 @@
+.app-header {
+    -webkit-box-align: end;
+            align-items: flex-end;
+}
+
+.app-header h1 {
+    -webkit-box-flex: 1;
+            flex-grow: 1;
+}
+
+.app-header h2 {
+    font-size: 1.2rem;
+    color: grey;
+}
